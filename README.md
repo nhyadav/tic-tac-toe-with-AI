@@ -4,6 +4,8 @@ there are three level of game
 1. easy
 2. medium
 3. hard
+
+
 human vs human
 human vs bot 
 bot vs bot
